@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @QuoteNat
+- 👋 Hi, I’m Nathan
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning about logic gates.
