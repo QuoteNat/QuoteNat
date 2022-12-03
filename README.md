@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Nathan
+- 👋 Hi, I’m Nat
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning about graphics in C++ and Rust.
+- 🌱 I’m currently learning about machine learning and networking.
