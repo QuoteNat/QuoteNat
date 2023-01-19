@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Nat
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning about machine learning and networking.
+
